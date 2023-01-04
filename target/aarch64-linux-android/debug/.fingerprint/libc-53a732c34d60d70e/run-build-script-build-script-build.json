@@ -1,0 +1,1 @@
+{"rustc":5552429366899626541,"features":"","target":0,"profile":0,"path":0,"deps":[[10042388369396437804,"build_script_build",false,6280561890304468499]],"local":[{"RerunIfChanged":{"output":"aarch64-linux-android\\debug\\build\\libc-53a732c34d60d70e\\output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

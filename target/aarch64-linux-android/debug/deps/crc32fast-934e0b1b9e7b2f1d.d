@@ -1,0 +1,11 @@
+C:\private-files\educational\mobile\crossbow-plugins\target\aarch64-linux-android\debug\deps\crc32fast-934e0b1b9e7b2f1d.rmeta: C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\lib.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\baseline.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\combine.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\table.rs
+
+C:\private-files\educational\mobile\crossbow-plugins\target\aarch64-linux-android\debug\deps\libcrc32fast-934e0b1b9e7b2f1d.rlib: C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\lib.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\baseline.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\combine.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\table.rs
+
+C:\private-files\educational\mobile\crossbow-plugins\target\aarch64-linux-android\debug\deps\crc32fast-934e0b1b9e7b2f1d.d: C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\lib.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\baseline.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\combine.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\table.rs
+
+C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\lib.rs:
+C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\baseline.rs:
+C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\combine.rs:
+C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\specialized\mod.rs:
+C:\Users\kchfo\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\table.rs:
